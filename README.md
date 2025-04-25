@@ -27,12 +27,12 @@ This app serves as a mini Flutter playground that introduces various Flutter com
 
 <table>
   <tr>
-    <td align="center"><img src="assets/images/1.png" width="200"/><br/>Home Screen</td>
-    <td align="center"><img src="assets/images/2.png" width="200"/><br/>Search & Categories</td>
+    <td align="center"><img src="assets/images/1.jpg" width="200"/><br/>Home Screen</td>
+    <td align="center"><img src="assets/images/2.jpg" width="200"/><br/>Search & Categories</td>
   </tr>
   <tr>
-    <td align="center"><img src="assets/images/3.png" width="200"/><br/>Widget Demo</td>
-    <td align="center"><img src="assets/images/4.png" width="200"/><br/>Code Viewer</td>
+    <td align="center"><img src="assets/images/3.jpg" width="200"/><br/>Widget Demo</td>
+    <td align="center"><img src="assets/images/4.jpg" width="200"/><br/>Code Viewer</td>
   </tr>
 </table>
 
